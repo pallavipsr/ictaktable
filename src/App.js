@@ -1,12 +1,11 @@
 
 import './App.css';
-import { Awesome } from './content';
-
+import Table from './dev.js'
 
 
 function App() {
   return (
-    < Awesome/>
+    <Table/>
 
   );
 }
